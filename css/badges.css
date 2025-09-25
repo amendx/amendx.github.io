@@ -1,0 +1,91 @@
+/* === Custom Badge Colors for Tech Stack === */
+
+.badge-javascript { background-color: #f7df1e; color: #000; }
+.badge-typescript { background-color: #3178c6; color: #fff; }
+.badge-vue { background-color: #42b883; color: #fff; }
+.badge-vuex { background-color: #35495e; color: #fff; }
+.badge-vuerouter { background-color: #f66; color: #fff; }
+.badge-react { background-color: #61dafb; color: #000; }
+.badge-es6 { background-color: #323330; color: #f7df1e; }
+
+.badge-css { background-color: #264de4; color: #fff; }
+.badge-scss { background-color: #cc6699; color: #fff; }
+
+.badge-jest { background-color: #99425b; color: #fff; }
+.badge-yarn { background-color: #2c8ebb; color: #fff; }
+.badge-npm { background-color: #cb3837; color: #fff; }
+
+.badge-cicd { background-color: #f0ad4e; color: #000; }
+.badge-ruby { background-color: #cc342d; color: #fff; }
+.badge-aws { background-color: #ff9900; color: #000; }
+.badge-node { background-color: #68a063; color: #fff; }
+.badge-java { background-color: #007396; color: #fff; }
+
+.badge-scrum { background-color: #6f42c1; color: #fff; }
+.badge-gitflow { background-color: #f05133; color: #fff; }
+
+.badge-mongodb { background-color: #47a248; color: #fff; }
+.badge-postgres { background-color: #336791; color: #fff; }
+
+.badge-rest { background-color: #e34c26; color: #fff; }
+.badge-firebase { background-color: #ffca28; color: #000; }
+.badge-angular { background-color: #dd0031; color: #fff; }
+.badge-designsystem { background-color: #0d6efd; color: #fff; }
+.badge-figma { background-color: #f24e1e; color: #fff; }
+.badge-webpack { background-color: #8ed6fb; color: #000; }
+.badge-vite { background: linear-gradient(45deg, #646cff, #ffca28); color: #fff; }
+.badge-tailwind { background-color: #38b2ac; color: #fff; }
+.badge-bootstrap { background-color: #563d7c; color: #fff; }
+.badge-pinia { background-color: #a39840; color: #fff; }
+.badge-csharp { background-color: #239120; color: #fff; }
+.badge-aspnet { background-color: #512bd4; color: #fff; }
+.badge-mvc { background-color: #68217a; color: #fff; }
+.badge-uml { background-color: #f0f0f0; color: #000; }
+.badge-rtc { background-color: #5c2d91; color: #fff; }
+.badge-html { background-color: #e34f26; color: #fff; }
+.badge-jquery { background-color: #0769ad; color: #fff; }
+.badge-sql { background-color: #003b57; color: #fff; }
+.badge-dotnet { background-color: #512bd4; color: #fff; }
+.badge-git { background-color: #f34f29; color: #fff; }
+.badge-github { background-color: #24292e; color: #fff; }
+.badge-bitbucket { background-color: #205081; color: #fff; }
+.badge-jira { background-color: #0052cc; color: #fff; }
+.badge-python { background-color: #3776ab; color: #fff; }
+.badge-graphql { background-color: #e535ab; color: #fff; }
+.badge-django { background-color: #092e20; color: #fff; }
+.badge-flask { background-color: #000000; color: #fff; }
+.badge-redis { background-color: #dc382d; color: #fff; }
+.badge-mysql { background-color: #00758f; color: #fff; }
+.badge-linux { background-color: #f0f0f0; color: #000; }
+.badge-docker { background-color: #0db7ed; color: #fff; }
+.badge-kubernetes { background-color: #326ce5; color: #fff; }
+.badge-terraform { background-color: #623ce4; color: #fff; }
+.badge-postman { background-color: #ff6c37; color: #fff; }
+.badge-insomnia { background-color: #4000bf; color: #fff; }
+.badge-swagger { background-color: #85ea2d; color: #000; }
+.badge-restapi { background-color: #e34c26; color: #fff; }
+.badge-grpc { background-color: #0e5a8a; color: #fff; }
+.badge-mocha { background-color: #8d6748; color: #fff; }
+.badge-flutter { background-color: #02569b; color: #fff; }
+.badge-svelte { background-color: #ff3e00; color: #fff; }
+.badge-vercel { background-color: #000000; color: #fff; }
+.badge-netlify { background-color: #00c7b7; color: #000; }
+.badge-chakra { background-color: #319795; color: #fff; }
+.badge-materialui { background-color: #0081cb; color: #fff; }
+.badge-antdesign { background-color: #0170fe; color: #fff; }
+.badge-tailwindcss { background-color: #38b2ac; color: #fff; }
+.badge-webpack { background-color: #8ed6fb; color: #000; }
+.badge-vite { background: linear-gradient(45deg, #646cff, #ffca28); color: #fff; }
+.badge-eslint { background-color: #4b32c3; color: #fff; }
+.badge-prettier { background-color: #f7b93e; color: #000; }
+.badge-cypress { background-color: #17202c; color: #fff; }
+.badge-playwright { background-color: #000000; color: #fff; }
+.badge-jasmine { background-color: #8a4182; color: #fff; }
+.badge-karma { background-color: #f00; color: #fff; }
+.badge-selenium { background-color: #43b02a; color: #fff; }
+.badge-appium { background-color: #00a4f0; color: #fff; }
+.badge-junit { background-color: #25d366; color: #fff; }
+.badge-nunit { background-color: #512bd4; color: #fff; }
+.badge-mstest { background-color: #512bd4; color: #fff; }
+.badge-jenkins { background-color: #d24939; color: #fff; }
+.badge-circleci { background-color: #343434; color: #fff; }
